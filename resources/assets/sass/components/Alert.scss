@@ -1,0 +1,16 @@
+.Alert {
+  background: #ddd;
+  border: 1px solid black;
+  padding: 1em;
+  position: relative;
+}
+.Alert__close {
+  position: absolute;
+  right: 1em;
+}
+.Alert__success {
+  background: green;
+}
+.Alert__error {
+  background: red;
+}
