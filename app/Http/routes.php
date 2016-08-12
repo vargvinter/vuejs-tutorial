@@ -33,6 +33,8 @@ Route::get('12', 'StaticController@lesson12');
 Route::get('13', 'StaticController@lesson13');
 Route::get('14', 'StaticController@lesson14');
 Route::get('15', 'StaticController@lesson15');
+Route::get('18', 'StaticController@lesson18');
+Route::get('22', 'StaticController@lesson22');
 
 
 Route::get('/', function () {

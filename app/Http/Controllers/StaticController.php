@@ -73,4 +73,14 @@ class StaticController extends Controller
     {
         return view('15');
     }
+
+    public function lesson18()
+    {
+        return view('18');
+    }
+
+    public function lesson22()
+    {
+        return view('22');
+    }
 }

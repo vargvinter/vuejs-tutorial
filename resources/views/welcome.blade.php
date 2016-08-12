@@ -20,6 +20,8 @@
         <li><a href="13">13 - Vue and Laravel Workflow</a></li>
         <li><a href="14">14 - Vue Filter Essentials</a></li>
         <li><a href="15">15 - Managing Custom Events</a></li>
+        <li><a href="18">18 - Managing Duplicate State</a></li>
+        <li><a href="22">22 - Vue Mixins</a></li>
     </ul>
 </body>
 </html>
